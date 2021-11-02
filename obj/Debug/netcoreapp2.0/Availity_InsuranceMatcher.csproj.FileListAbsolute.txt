@@ -1,0 +1,10 @@
+C:\Users\black\source\repos\Availity_InsuranceMatcher\Availity_InsuranceMatcher\bin\Debug\netcoreapp2.0\Availity_InsuranceMatcher.deps.json
+C:\Users\black\source\repos\Availity_InsuranceMatcher\Availity_InsuranceMatcher\bin\Debug\netcoreapp2.0\Availity_InsuranceMatcher.runtimeconfig.json
+C:\Users\black\source\repos\Availity_InsuranceMatcher\Availity_InsuranceMatcher\bin\Debug\netcoreapp2.0\Availity_InsuranceMatcher.runtimeconfig.dev.json
+C:\Users\black\source\repos\Availity_InsuranceMatcher\Availity_InsuranceMatcher\bin\Debug\netcoreapp2.0\Availity_InsuranceMatcher.dll
+C:\Users\black\source\repos\Availity_InsuranceMatcher\Availity_InsuranceMatcher\bin\Debug\netcoreapp2.0\Availity_InsuranceMatcher.pdb
+C:\Users\black\source\repos\Availity_InsuranceMatcher\Availity_InsuranceMatcher\obj\Debug\netcoreapp2.0\Availity_InsuranceMatcher.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\Availity_InsuranceMatcher\Availity_InsuranceMatcher\obj\Debug\netcoreapp2.0\Availity_InsuranceMatcher.AssemblyInfoInputs.cache
+C:\Users\black\source\repos\Availity_InsuranceMatcher\Availity_InsuranceMatcher\obj\Debug\netcoreapp2.0\Availity_InsuranceMatcher.AssemblyInfo.cs
+C:\Users\black\source\repos\Availity_InsuranceMatcher\Availity_InsuranceMatcher\obj\Debug\netcoreapp2.0\Availity_InsuranceMatcher.dll
+C:\Users\black\source\repos\Availity_InsuranceMatcher\Availity_InsuranceMatcher\obj\Debug\netcoreapp2.0\Availity_InsuranceMatcher.pdb
